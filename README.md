@@ -35,16 +35,10 @@ Follow the steps below to set up the environment for running the model:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/lung-colon-cancer-classification.git
+    git clone https://github.com/amenihosni/lung-colon-cancer-classification.git
     cd lung-colon-cancer-classification
     ```
-
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Download the dataset from Kaggle and place it in the `data/` folder.
+2. Download the dataset from Kaggle and place it in the `data/` folder.
 
 ---
 
